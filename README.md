@@ -1,9 +1,4 @@
-# ayx_builders_pack
-These tools are made with Python and Go SDKs and we see them as a small contribution to the growing set of "next-gen" tools in the Alteryx APA platform.
-
-
-# ayx_builders_pack: 
-# next generation Alteryx tools!
+# ayx_builders_pack</br>next generation Alteryx tools!
 ### Installation
 
 The easiest way to install the latest version installing the entire ayx_builders_pack.
@@ -27,8 +22,8 @@ These tools are not an official Alteryx release and as such they have not been t
 
 If you find an issue let us know either by logging an issue here in GitHub, in the comments below or drop me personally a note and I'll take a look, or if you can see how to fix it yourself then even better!
  
-* Alteryx Community
-* Slack Channel
+* [Alteryx Community](https://community.alteryx.com/)
+* [Slack Channel](http://ayxbuilders.slack.com/)
  
  
  
