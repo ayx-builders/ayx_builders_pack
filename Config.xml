@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AlteryxJavaScriptPlugin>
+  <Properties>
+    <MetaInfo>
+      <Name>ayx_builders</Name>
+      <RootToolName>ayx_builders</RootToolName>
+      <Description>A collection of Python and Go tools created by the ayx_builder group</Description>
+      <CategoryName>ayx_builders</CategoryName>
+      <ToolVersion>0.0.1</ToolVersion>
+      <Author>ayx_builders</Author>
+      <Company></Company>
+      <Copyright>2020</Copyright>
+      <SearchTags>ayx_builders, go, python</SearchTags>
+      <Icon>icon.png</Icon>
+    </MetaInfo>
+  </Properties>
+</AlteryxJavaScriptPlugin>
