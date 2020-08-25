@@ -6,3 +6,4 @@ CD ..\RuntimeData\icons\categories
 COPY %currentFolder%\AyxBuilders.png .\AyxBuilders.png /Y
 %currentFolder%ayx_builders.yxi
 CD %currentFolder%
+PAUSE
