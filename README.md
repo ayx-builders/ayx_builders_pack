@@ -13,6 +13,7 @@ For more detailed explanations of the below tools, see their individual README
 * Field Sorter - Re-orders fields by matching exact values or regex
 * JiraPy - Imports data from Jira
 * Mimesis Data Generator - Generates sample data
+* NERD - Named Entity Recognition Data, extracts named entities and parts-of-speech from text fields
 * Open Weather - Download current weather observations and forecasts
 * Tweepyx - Scrape tweets using Twitter’s API
 * Vader Sentiment Analysis - Sentiment scoring

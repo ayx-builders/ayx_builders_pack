@@ -2,7 +2,7 @@
 <AlteryxJavaScriptPlugin>
   <Properties>
     <MetaInfo>
-      <Name>Clean Nulls, Field Sorter, JiraPy, Mimesis Data Generator, Tweepyx, VADER_Sentiment, Open Weather</Name>
+      <Name>Clean Nulls, Field Sorter, JiraPy, Mimesis Data Generator, NERD, Tweepyx, VADER_Sentiment, Open Weather</Name>
       <RootToolName>ayx_builders</RootToolName>
       <Description>A collection of Python and Go tools created by the ayx_builder group</Description>
       <CategoryName>ayx_builders</CategoryName>
