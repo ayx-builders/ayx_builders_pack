@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <AlteryxJavaScriptPlugin>
+  <EngineSettings EngineDll="Python" SDKVersion="10.1" ToolFamily="ayx_builders" />
   <Properties>
     <MetaInfo>
       <Name>Clean Nulls, Field Sorter, JiraPy, Mimesis Data Generator, NERD, Tweepyx, VADER_Sentiment, Open Weather</Name>
